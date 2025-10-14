@@ -18,6 +18,8 @@ With **half a decade of experience** in software development, I enjoy building s
 ### 👨‍💻 What I'm Up To
 - Actively working on building modern fintech and ERP systems  
 - Exploring more efficient DevOps practices and container orchestration  
+- Developing AI agents
+- Building Security Compliance for AI systems
 - Occasionally refactoring legacy systems into clean, modern microservices  
 - Always learning — always building  
 
